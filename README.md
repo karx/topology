@@ -1,10 +1,28 @@
-## Welcome to GitHub Pages
+# Topology
 
-You can use the [editor on GitHub](https://github.com/karx/topology/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Why this ?
+Call this my new found love for github pages, call it my interest in Mathematics, call it hobby if you want.
+It is.
+Well, it is very difficult to convince people to learn something new. And Feynman said that teach to learn best. So I figured I could do this, with virtual people.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## What to expect?
+I would attempt to go over __Topology__.
+
+Books used:
+* Topology by Munkres [link](https://amzn.to/2DDoVnY)
+
+This would include:
+* Theories and proofs
+* Working of examples
+* Solving few exercises
+* End project. Would use this for a project framework: [project-instructions](www.math.harvard.edu/~sebv/101-fall-2018/project-instructions.pdf)
+
+## Table of Content
+
+TODO updated as we go.
+
+### First
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
